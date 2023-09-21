@@ -5,7 +5,7 @@ simple cpp project using sdl
 This is a simple implementation of the classic Snake game using SDL2.
 
 ## How to Run the Code
-
+*you could run the game with the given .exe file (for window operaters)*
 1. Make sure you have SDL2 installed on your system. You can download it from the SDL website and follow the instructions for your specific operating system.
 
 2. Clone this repository to your local machine.
